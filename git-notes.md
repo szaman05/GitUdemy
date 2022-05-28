@@ -6,7 +6,7 @@ There are 2 types of Version Control System (VCS)
 
 -   Centralized
 
-> ![](media/image1.png){width="4.76608595800525in"
+> ![](./images/media/image1.png){width="4.76608595800525in"
 > height="3.5704910323709536in"}
 
 -   Distributed
@@ -20,7 +20,7 @@ There are 2 types of Version Control System (VCS)
 
     -   User can update the Central Server from their Repo.
 
-> ![](media/image2.png){width="4.806486220472441in"
+> ![](./images/media/image2.png){width="4.806486220472441in"
 > height="3.608973097112861in"}
 
 **[User Configuration:]{.underline}**
@@ -31,7 +31,8 @@ There are 2 types of Version Control System (VCS)
 
 \$ git config \--list
 
-![](media/image3.png){width="5.229166666666667in" height="3.5in"}
+![](./images/media/image3.png){width="5.229166666666667in"
+height="3.5in"}
 
 **[Create Repo:]{.underline}**
 
@@ -46,10 +47,10 @@ Git-Github/GitUdemy/.git/
 
 Git Commit:
 
-![](media/image4.png){width="4.829023403324585in"
+![](./images/media/image4.png){width="4.829023403324585in"
 height="3.166979440069991in"}
 
-![](media/image5.png){width="4.822687007874015in"
+![](./images/media/image5.png){width="4.822687007874015in"
 height="3.2093110236220475in"}
 
 Git Log:
@@ -58,7 +59,7 @@ Q: How can you identify the commits from any specific dev?
 
 A: \$ git log \--author=\"Sohel Zaman\"
 
-![](media/image6.png){width="3.944773622047244in"
+![](./images/media/image6.png){width="3.944773622047244in"
 height="1.2257272528433947in"}
 
 Create Repo From Git CLI:
