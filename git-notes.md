@@ -1,4 +1,4 @@
-# **GIT and GITHUB NOTES**
+# **GIT and GITHUB NOTE**
 
 There are 2 types of Version Control System (VCS)
 
