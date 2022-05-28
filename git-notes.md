@@ -1,4 +1,4 @@
-I am using the above course to learn GIT and GITHUB Quickly:
+# **GIT and GITHUB NOTES**
 
 There are 2 types of Version Control System (VCS)
 
