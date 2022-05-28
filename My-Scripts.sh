@@ -19,7 +19,7 @@ then
 else
  echo "Biggest number is : ${num3}"
 fi
----------------------------------------------------------------
+##########################################################
 #!/bin/bash
 
 # Write a shell script accept user input and match if the file exist in . directory
