@@ -25,7 +25,7 @@ There are 2 types of Version Control System (VCS)
 
 $ git config --global user.name "Sohel Zaman"
 
-$ git config --global user.email "szaman05@yahoo.com"
+$ git config --global user.email "xxx@xxhoo.com"
 
 $ git config --list
 
