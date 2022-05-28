@@ -1,5 +1,3 @@
-https://cognizant.udemy.com/course/devops-training/learn/lecture/9799488#content
-
 I am using the above course to learn GIT and GITHUB Quickly:
 
 There are 2 types of Version Control System (VCS)
